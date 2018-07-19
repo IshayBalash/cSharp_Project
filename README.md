@@ -3,8 +3,8 @@
 
 ***
 
-# the task of the project is to Search for spesific files in the user computer and then updte a DB with the Search and the results
-# the project use the n-tier modle so it is divided into 4 different project.3- dlls and one console app
+* the task of the project is to Search for spesific files in the user computer and then updte a DB with the Search and the results
+* the project use the n-tier modle so it is divided into 4 different projects -4 dlls(UIL,BOL,DLL,BLL) and one console app
 
 
 ## 00- Basic Typescript
