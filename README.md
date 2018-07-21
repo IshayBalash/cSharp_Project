@@ -13,8 +13,8 @@
 
 ## BOL
 * contains two classes 
-* the user search class.
-* the file result class 
+1 the user search class.
+2 the file result class 
 
 ## BLL
 * contain the conmunicates functions between the program and the DAL.
