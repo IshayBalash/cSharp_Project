@@ -26,10 +26,10 @@
 
 
 ## Data base
-** the db contains 3 tables.
-* 1 Search tables-contins the search info.
-* 2 The file results table.
-* 3 A connections table betwwn the search table and the file table
+* the db contains 3 tables.
+ 1. Search tables-contins the search info.
+ 2. The file results table.
+ 3. A connections table betwwn the search table and the file table
 
 
 
