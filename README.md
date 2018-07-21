@@ -1,12 +1,13 @@
 
 # c# project
 
-***
+
 
 * the task of the project is to search for spesific files in the user computer and then updte a db with the search and the results files.
 * the project use the n-tier modle so it is divided into 4 different projects -4 dlls(UIL,BOL,DLL,BLL) and one console app.
 * the  DB used in this project is a mysql DB in an open connections format. 
 
+***
 
 ## UIL
 * Contains the Search files functions
