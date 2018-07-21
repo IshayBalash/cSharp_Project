@@ -17,7 +17,7 @@
 * the file result class 
 
 ## BLL
-*contain the conmunicates functions between the program and the DAL.
+* contain the conmunicates functions between the program and the DAL.
 * activate the functions in the DAL acording to a logical swqwence.
 
 ## DAL
